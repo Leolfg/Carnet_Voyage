@@ -1,0 +1,53 @@
+# Blender MTL File: 'spotmatic_mains.blend'
+# Material Count: 5
+
+newmtl Boitier_noir
+Ns 488.235294
+Ka 1.000000 1.000000 1.000000
+Kd 0.090072 0.090072 0.090072
+Ks 0.032644 0.032644 0.032644
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Léo\Pictures\Estienne\DSAA_DCN\Capsule Temporelle\3D\spot1024fusion.png
+
+newmtl Gris_chrome
+Ns 7.843137
+Ka 1.000000 1.000000 1.000000
+Kd 0.706088 0.706088 0.706088
+Ks 0.536365 0.675520 0.838039
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Léo\Pictures\Estienne\DSAA_DCN\Capsule Temporelle\3D\spot1024fusion.png
+
+newmtl Gris_chrome_NONE
+Ns 7.843137
+Ka 1.000000 1.000000 1.000000
+Kd 0.706088 0.706088 0.706088
+Ks 0.536365 0.675520 0.838039
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Noir_coque.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.021606 0.021606 0.021606
+Ks 0.369658 0.369658 0.369658
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Léo\Pictures\Estienne\DSAA_DCN\Capsule Temporelle\3D\spot1024fusion.png
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
